@@ -1,0 +1,9 @@
+### Cadastrar IMC
+//POST: http://localhost:5050/pages/imc/cadastrar
+Content-Type: application/json
+
+{
+    "AlunoId": "1",
+    "Altura": = "1.60",
+    "Peso": = "47.0"
+}

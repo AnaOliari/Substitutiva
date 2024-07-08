@@ -1,0 +1,9 @@
+### Cadastrar um aluno 
+POST http://localhost:5050/pages/aluno/cadastrar
+Content-Type: application/json
+
+{
+    "nome": "Vera",
+    "dataNascimento": "21/10/2004"
+    
+}
